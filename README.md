@@ -1,5 +1,12 @@
-# Project_2
-Base code from Example 6-2
-Changed user_interface.cpp to accomodate 2x16 display
-   userInterfaceDisplayInit() function
+# Project_3
+Base code from _Example 6-2_
+Added **display.cpp** to modules
+1. Step 2 of the process
+   * Substep (not ordered)
+2. Step 3
+   1. Substep (ordered)
+
+   
+   
+
    
